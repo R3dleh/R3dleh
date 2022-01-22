@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @R3dleh
-- 👀 I’m interested in progress in programming
+- 👀 I’m interested in progress in mobile development
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Discord: RedMaster#3651
